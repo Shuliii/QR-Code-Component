@@ -64,6 +64,7 @@ body {
   font-weight: 700;
   font-size: var(--fs-primary);
   line-height: 28px;
+  color: var(--clr-dark-blue);
 }
 
 .content p {
